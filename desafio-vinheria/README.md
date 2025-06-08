@@ -87,8 +87,6 @@ Se você deseja contribuir com sugestões ou melhorias, entre em contato ou abra
 
 - **Nome:** Sérgio de Chong Wu
 - **Nome:** Leonardo de Lima Pedroso
-- **Nome:** Everson Pereira da Silva
-- **Nome:** Caua Barros da Costa
 
 ---
 
