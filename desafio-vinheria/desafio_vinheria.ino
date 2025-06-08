@@ -56,7 +56,7 @@ void setup() {
   }
 
   // Mensagem inicial no display
-  lcd.print("Vinheria Agnello");
+  lcd.print("Vinheria");
   lcd.setCursor(0, 1);
   lcd.print("Inicializando...");
   delay(2000);
