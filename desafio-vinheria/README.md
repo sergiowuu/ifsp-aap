@@ -58,7 +58,7 @@ O sistema está operando em ambiente de simulação com funcionalidades essencia
 
 Você pode acessar a simulação do circuito diretamente no Tinkercad clicando no link abaixo:
 
-🔗 [Acessar o projeto no Tinkercad](https://www.tinkercad.com/things/i9cVRcC92tC-desafio-vinheria/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=zKNrjM4wYJeahYqMfufHBixuKxdsrMjDRJfZkq4oWPc)
+🔗 [Acessar o projeto no Tinkercad](https://www.tinkercad.com/things/i9cVRcC92tC-desafio-vinheria/editel)
 
 > 💡 É necessário ter uma conta gratuita no Tinkercad para visualizar e editar a simulação.
 
