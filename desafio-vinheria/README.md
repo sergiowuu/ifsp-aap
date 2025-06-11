@@ -58,7 +58,7 @@ O sistema está operando em ambiente de simulação com funcionalidades essencia
 
 Você pode acessar a simulação do circuito diretamente no Tinkercad clicando no link abaixo:
 
-🔗 [Acessar o projeto no Tinkercad](https://www.tinkercad.com/things/i9cVRcC92tC-desafio-vinheria)
+🔗 [Acessar o projeto no Tinkercad](https://www.tinkercad.com/things/i9cVRcC92tC-desafio-vinheria?sharecode=_ZiN8jLkU_dcmi5OsLV_2vzHSaEKzdJBJCLwXj9m2P4)
 
 > 💡 É necessário ter uma conta gratuita no Tinkercad para visualizar e editar a simulação.
 
