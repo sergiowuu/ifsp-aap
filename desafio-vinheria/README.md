@@ -85,8 +85,10 @@ Se você deseja contribuir com sugestões ou melhorias, entre em contato ou abra
 
 ## 👨‍💻 Pessoas Desenvolvedoras do Projeto
 
-- **Nome:** Sérgio de Chong Wu
-- **Nome:** Leonardo de Lima Pedroso
+- **Giovanne Brandão de Aquino**
+- **Leonardo de Lima Pedroso**
+- **Ricardo Queiroz Oliani**
+- **Sérgio de Chong Wu**
 
 ---
 
